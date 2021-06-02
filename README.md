@@ -5,7 +5,7 @@
 
 I'm **Ana Zuleica**! I'm a final year student pursuing a Bachelors's in Materials Engineering from Universidade Federal do Piauí 🎓, and a Full Stack Development student of [@minasprogramam](https://github.com/minasprogramam), a project to teach programming to women 💪. 
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=anazuleica&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblogs.studentlife.utoronto.ca%2Flifeatuoft%2Ffiles%2F2018%2F09%2Fscientists_2.gif&f=1&nofb=1" />
 
